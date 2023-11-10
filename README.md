@@ -30,6 +30,8 @@ An ASCII text file containing the input text in columns and layout according to 
 
 The options are as follows:
 
+    -h  Display this help and exit.
+
     -m  Uses three processes.
 
     -v  Display the values used to format the output text.
